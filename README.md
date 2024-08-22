@@ -9,9 +9,9 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
 
 <!-- Status -->
 # 📈Github Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-Samuel-I&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="145" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=I-Samuel-I&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="148" alt="languages graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=I-Samuel-I&show_icons=true&theme=aura" alt="Samuel Gomes GitHub stats" style="height: 160px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Samuel-I&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens%20mais%20usadas:&" alt="Top Languages" style="height: 160px;" />
 </div>
 
 <!-- Tecnologias -->
@@ -37,9 +37,9 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
  <h2></h2>
-
+ 
 <!-- Cartoon -->
-<img align="left" height="250" width="250" src="https://github.com/user-attachments/assets/28f0f463-642d-47f7-988a-e196a8cd74a2"/>
+<img align="left" height="300" width="300" src="https://github.com/user-attachments/assets/28f0f463-642d-47f7-988a-e196a8cd74a2"/>
   <div>
     <h3 align="left">  🌐 Socials: </h3>
   </div>
@@ -60,7 +60,7 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/I-Samuel-I/I-Samuel-I/output/github-contribution-grid-snake.svg">
 </picture>
 
-  <h2 align="center">💜 Obrigado pela visita! 💜</h2>
+  <h3 align="center">💜 Obrigado pela visita! 💜</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&section=footer"/>
 
