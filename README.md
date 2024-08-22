@@ -3,12 +3,12 @@
 </p>
 
 <!-- Apresentação -->
-<h2>🔎 Sobre mim:</h2>
-<p>
-Oi! Eu me chamo Samuel Gome, sou um desenvolvedor front-end com paixão por criar interfaces de usuário intuitivas e funcionais. Tenho experiência em HTML, CSS, JavaScript, e frameworks como React. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para entregar soluções que façam a diferença.
+# 🔎 Sobre mim:
+
+Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por criar interfaces de usuário intuitivas e funcionais. Tenho experiência em HTML, CSS, JavaScript, e frameworks como React. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para entregar soluções que façam a diferença.
 
 <!-- Status -->
-<h2 align="left">📈Github Stats:</h2>
+# 📈Github Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=I-Samuel-I&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="145" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=I-Samuel-I&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="148" alt="languages graph"  />
@@ -38,15 +38,21 @@ Oi! Eu me chamo Samuel Gome, sou um desenvolvedor front-end com paixão por cria
 </div>
  <h2></h2>
 
-<!-- Contatos -->
+<!-- Cartoon -->
 <img align="left" height="250" width="250" src="https://github.com/user-attachments/assets/28f0f463-642d-47f7-988a-e196a8cd74a2"/>
-  <h3 align="left">  🌐 Socials: </h3>
+  <div>
+    <h3 align="left">  🌐 Socials: </h3>
+  </div>
   
+<!-- Contatos -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sam.pongp/)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes-481062316/)
 [![Instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353247502385938432)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samgomes.dev@gmail.com)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=I-Samuel-I&label=Visitantes&color=6&icon=0&pretty=false" />
+</a>
 <!-- Snake Script -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I-Samuel-I/I-Samuel-I/output/github-contribution-grid-snake-dark.svg">
@@ -54,7 +60,7 @@ Oi! Eu me chamo Samuel Gome, sou um desenvolvedor front-end com paixão por cria
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/I-Samuel-I/I-Samuel-I/output/github-contribution-grid-snake.svg">
 </picture>
 
-  <h1 align="center">💜 Obrigado pela visita! 💜</h1>
+  <h2 align="center">💜 Obrigado pela visita! 💜</h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&section=footer"/>
 
