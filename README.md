@@ -53,4 +53,9 @@ Oi! Eu me chamo Samuel Gome, sou um desenvolvedor front-end com paixão por cria
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/I-Samuel-I/I-Samuel-I/output/github-contribution-grid-snake.svg">
 </picture>
 
+  <h1 align="center">💜 Obrigado pela visita! 💜</h1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&section=footer"/>
+
+
 <!-- <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> -->
