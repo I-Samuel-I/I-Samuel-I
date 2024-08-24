@@ -8,7 +8,7 @@
 Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por criar interfaces de usuário intuitivas e funcionais. Tenho experiência em HTML, CSS, JavaScript, e frameworks como React. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para entregar soluções que façam a diferença.
 
 <!-- Status -->
-# 📈Github Stats:
+# 📈 Github Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=I-Samuel-I&show_icons=true&theme=aura" alt="Samuel Gomes GitHub stats" style="height: 160px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Samuel-I&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens%20mais%20usadas:&" alt="Top Languages" style="height: 160px;" />
