@@ -41,7 +41,7 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
 <!-- Cartoon -->
 <img align="left" height="300" width="300" src="https://github.com/user-attachments/assets/28f0f463-642d-47f7-988a-e196a8cd74a2"/>
   <div>
-    <h3 align="left">  🌐 Socials: </h3>
+    <h3 align="left">  🌐 Contate-me: </h3>
   </div>
   
 <!-- Contatos -->
