@@ -50,9 +50,6 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/353247502385938432)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samgomes.dev@gmail.com)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=I-Samuel-I&label=Visitantes&color=6&icon=0&pretty=false" />
-</a>
 <!-- Snake Script -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/I-Samuel-I/I-Samuel-I/output/github-contribution-grid-snake-dark.svg">
@@ -63,6 +60,5 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
   <h3 align="center">💜 Obrigado pela visita! 💜</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&section=footer"/>
-
 
 <!-- <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> -->
