@@ -35,9 +35,14 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
- <h2></h2>
- 
+
+
+
+
+###
 <!-- Cartoon -->
 <img align="left" height="300" width="300" src="https://github.com/user-attachments/assets/28f0f463-642d-47f7-988a-e196a8cd74a2"/>
   <div>
