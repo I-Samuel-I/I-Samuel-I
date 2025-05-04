@@ -3,50 +3,40 @@
 </p>
 
 <!-- Apresentação -->
-# 🔎 Sobre mim:
+# 🔎 About me:
 
-Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por criar interfaces de usuário intuitivas e funcionais. Tenho experiência em HTML, CSS, JavaScript, e frameworks como React. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades para entregar soluções que façam a diferença.
+Hi! I'm Samuel Gomes, a front-end developer focused on creating modern, functional, and well-structured interfaces.
+I’m constantly seeking continuous improvement, learning new technologies, and enhancing my skills to deliver high-quality solutions.
 
 <!-- Status -->
 # 📈 Github Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=I-Samuel-I&show_icons=true&theme=aura" alt="Samuel Gomes GitHub stats" style="height: 160px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Samuel-I&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens%20mais%20usadas:&" alt="Top Languages" style="height: 160px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Samuel-I&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Most%20Languages%20Used:&" alt="Top Languages" style="height: 160px;" />
 </div>
 
 <!-- Tecnologias -->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
 </div>
-
-
-
 
 ###
 <!-- Cartoon -->
 <img align="left" height="300" width="300" src="https://github.com/user-attachments/assets/28f0f463-642d-47f7-988a-e196a8cd74a2"/>
   <div>
-    <h3 align="left">  🌐 Contate-me: </h3>
+    <h3 align="left">  🌐 Contact me: </h3>
   </div>
   
 <!-- Contatos -->
@@ -62,8 +52,7 @@ Oi! Eu me chamo Samuel Gomes, sou um desenvolvedor front-end com paixão por cri
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/I-Samuel-I/I-Samuel-I/output/github-contribution-grid-snake.svg">
 </picture>
 
-  <h3 align="center">💜 Obrigado pela visita! 💜</h3>
-
+<h3 align="center">💜 Thanks for visiting 💜</h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&section=footer"/>
 
 <!-- <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> -->
