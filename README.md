@@ -3,13 +3,22 @@
 </p>
 
 <!-- Apresentação -->
-# 🔎 About me:
 
-Hi! I'm Samuel Gomes, a front-end developer focused on creating modern, functional, and well-structured interfaces.
-I’m constantly seeking continuous improvement, learning new technologies, and enhancing my skills to deliver high-quality solutions.
+
+<h1 align="center">💜 Hello, I'm Samuel Gomes</h1>
+<h3 align="center">🚀 Front-End Developer | 🎨 UI/UX Enthusiast | 📚 Always learning</h3>
+
+---
+
+## 🔎 About me
+- 👨‍💻 Currently developing front-end and learning code best practices
+- 🌱 Studying **React**, **TypeScript** and **UI Design**
+- 💬 Ask me about **JavaScript**, **React**, **REST APIs**
+- 🎯 Goal: evolve to full-stack and contribute to open-source projects
+- 🚀 I’m constantly seeking continuous improvement, learning new technologies, and enhancing my skills to deliver high-quality solutions.
 
 <!-- Status -->
-# 📈 Github Stats:
+## 📈 Github Stats:
 
 <div style="display: flex; gap: 10px;">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-Samuel-I&theme=aura" style="height: 225px;" />
