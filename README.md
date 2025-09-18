@@ -10,9 +10,10 @@ I’m constantly seeking continuous improvement, learning new technologies, and 
 
 <!-- Status -->
 # 📈 Github Stats:
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=I-Samuel-I&show_icons=true&theme=aura" alt="Samuel Gomes GitHub stats" style="height: 160px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Samuel-I&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Most%20Languages%20Used:&" alt="Top Languages" style="height: 160px;" />
+
+<div style="display: flex; gap: 10px;">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-Samuel-I&theme=aura" style="height: 225px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I-Samuel-I&theme=aura" style="height: 225px;" />
 </div>
 
 <!-- Tecnologias -->
@@ -55,4 +56,4 @@ I’m constantly seeking continuous improvement, learning new technologies, and 
 <h3 align="center">💜 Thanks for visiting 💜</h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&reversal=false&section=footer"/>
 
-<!-- <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> -->
+<!-- <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> -->
