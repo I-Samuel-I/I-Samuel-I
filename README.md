@@ -20,10 +20,15 @@
 <!-- Status -->
 ## 📈 Github Stats:
 
-<div style="display: flex; gap: 10px;">
+<!-- <div style="display: flex; gap: 10px;">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-Samuel-I&theme=aura" style="height: 225px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I-Samuel-I&theme=aura" style="height: 225px;" />
+</div> -->
+<div style="display: flex; gap: 50px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=I-Samuel-I&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=I-Samuel-I&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="500px" alt="languages graph"/>
 </div>
+
 
 <!-- Tecnologias -->
 <div align="left">
