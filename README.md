@@ -52,7 +52,8 @@
 
 ###
 <!-- Cartoon -->
-<img align="left" height="300" width="300" src="https://github.com/user-attachments/assets/28f0f463-642d-47f7-988a-e196a8cd74a2"/>
+<img align="left" height="300" width="300" src="https://github.com/user-attachments/assets/232de23d-d6f4-4623-a2aa-736a3d7f93d6"/>
+
   <div>
     <h3 align="left">  🌐 Contact me: </h3>
   </div>
