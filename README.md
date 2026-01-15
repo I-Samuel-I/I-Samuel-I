@@ -6,16 +6,12 @@
 
 
 <h1 align="center">💜 Hello, I'm Samuel Gomes</h1>
-<h3 align="center">🚀 Front-End Developer | 🎨 UI/UX Enthusiast | 📚 Always learning</h3>
+<h3 align="center">🚀 Web Developer | 🎨 UI/UX Enthusiast | 📚 Always learning</h3>
 
 ---
 
-## 🔎 About me
-- 👨‍💻 Currently developing front-end and learning code best practices
-- 🌱 Studying **React**, **TypeScript** and **UI Design**
-- 💬 Ask me about **JavaScript**, **React**, **REST APIs**
-- 🎯 Goal: evolve to full-stack and contribute to open-source projects
-- 🚀 I’m constantly seeking continuous improvement, learning new technologies, and enhancing my skills to deliver high-quality solutions.
+## ✨ About me
+I'm a Web Developer passionate about building modern, responsive, and user-focused applications. I work mainly with JavaScript, React, TypeScript, and REST APIs, and I'm constantly improving my skills with the goal of becoming a full-stack developer and contributing to open-source projects.
 
 <!-- Status -->
 ## 📈 Github Stats:
