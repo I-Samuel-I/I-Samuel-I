@@ -48,7 +48,7 @@ I'm a Web Developer passionate about building modern, responsive, and user-focus
 
 ###
 <!-- Cartoon -->
-<img align="left" height="350" width="300" src="https://github.com/user-attachments/assets/43ad6dca-12fd-486c-b8b3-2121c6cb5e09"/>
+<img align="left" height="350" width="350" src="https://github.com/user-attachments/assets/a6a7983a-5e05-494d-8eaf-c26049a6976a"/>
 
   <div>
     <h3 align="left">  🌐 Contact me: </h3>
