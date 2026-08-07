@@ -6,7 +6,7 @@
 
 
 <h1 align="center">💜 Hello, I'm Samuel Gomes</h1>
-<h3 align="center">🚀 Web Developer | 🎨 UI/UX Enthusiast | 📚 Always learning</h3>
+<h3 align="center">🚀 Web Developer | 🚀 Mobile Developer | 🎨 UI/UX Enthusiast</h3>
 
 ---
 
